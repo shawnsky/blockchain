@@ -30,9 +30,7 @@
 
 ### 区块的数据结构
 
-![image-20191110161919093](/Users/amalthea/Library/Application Support/typora-user-images/image-20191110161919093.png)
-
-如上图所示，我们可以看到以下核心元素: 
+主要包括以下核心元素: 
 
 - index 区块的递增编号
 - timestamp 时间戳

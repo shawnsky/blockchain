@@ -1,0 +1,13 @@
+certifi==2021.5.30
+chardet==4.0.0
+click==8.0.1
+Flask==2.0.1
+idna==2.10
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+pyasn1==0.4.8
+requests==2.25.1
+rsa==4.7.2
+urllib3==1.26.5
+Werkzeug==2.0.1
